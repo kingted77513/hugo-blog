@@ -5,24 +5,20 @@ paginate: 5
 title: Example Site
 
 languages:
-    en:
-        languageName: English
-        title: Example Site
+    zh-tw:
+        languageName: 繁體中文
+        title: 泰諺的家
         weight: 1
-    cn:
-        languageName: 中文
-        title: 演示站点
-        weight: 2
 
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
+disqusShortname: kingted77513
 
 # GA Tracking ID
-googleAnalytics:
+googleAnalytics: kingted77513
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk
-DefaultContentLanguage: en
+DefaultContentLanguage: zh-tw
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
@@ -40,7 +36,7 @@ params:
     favicon:
 
     footer:
-        since: 2020
+        since: 2022
         customText:
 
     dateFormat:
@@ -48,8 +44,8 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        emoji: 😎
+        subtitle: 歡迎來到我的網站，歡迎一同交流
         avatar:
             enabled: true
             local: true
