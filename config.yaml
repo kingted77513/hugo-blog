@@ -7,7 +7,7 @@ title: Example Site
 languages:
     zh-tw:
         languageName: 繁體中文
-        title: 泰諺的家
+        title: 雙腦工程師
         weight: 1
 
 # Change it to your Disqus shortname before using
@@ -40,12 +40,12 @@ params:
         customText:
 
     dateFormat:
-        published: Jan 02, 2006
-        lastUpdated: Jan 02, 2006 15:04 MST
+        published: 2006-01-02
+        lastUpdated: 2006-01-02 15:04 CST
 
     sidebar:
         emoji: 😎
-        subtitle: 歡迎來到我的網站，歡迎一同交流
+        subtitle: 一個探搜電腦和大腦奧秘的工程師，將會與您擦出什麼火花呢？
         avatar:
             enabled: true
             local: true
@@ -54,7 +54,7 @@ params:
     article:
         math: false
         toc: true
-        readingTime: true
+        readingTime: false
         license:
             enabled: true
             default: Licensed under CC BY-NC-SA 4.0
@@ -152,7 +152,7 @@ params:
     opengraph:
         twitter:
             # Your Twitter username
-            site:
+            site: WuTeddy
 
             # Available values: summary, summary_large_image
             card: summary_large_image
@@ -193,13 +193,19 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/kingted77513
           params:
               icon: brand-github
 
+        - identifier: facebook
+          name: Facebook
+          url: https://www.facebook.com/kingted77513
+          params:
+              icon: brand-facebook
+
         - identifier: twitter
           name: Twitter
-          url: https://twitter.com
+          url: https://twitter.com/WuTeddy
           params:
               icon: brand-twitter
 
