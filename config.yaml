@@ -7,8 +7,12 @@ title: Example Site
 languages:
     zh-tw:
         languageName: 繁體中文
-        title: 雙腦工程師
+        title: 光頭阿泰
         weight: 1
+    cn:
+        languageName: 簡體中文
+        title: 光头阿泰
+        weight: 2
 
 # Change it to your Disqus shortname before using
 disqusShortname: kingted77513
@@ -33,7 +37,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
+    favicon: icons/favicon.png
 
     footer:
         since: 2022
@@ -45,7 +49,7 @@ params:
 
     sidebar:
         emoji: 😎
-        subtitle: 一個探搜電腦和大腦奧秘的工程師，將會與您擦出什麼火花呢？
+        subtitle: 人生簡單，快樂就好
         avatar:
             enabled: true
             local: true
@@ -139,13 +143,13 @@ params:
             id:
     widgets:
         homepage:
-            - type: search
             - type: archives
               params:
                   limit: 5
             - type: tag-cloud
               params:
                   limit: 10
+            - type: search
         page:
             - type: toc
 
