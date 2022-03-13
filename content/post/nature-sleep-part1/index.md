@@ -3,8 +3,11 @@ author = "Teddy"
 title = "短時睡眠計畫與實踐步驟(一) - 打破對於睡眠的即定觀念"
 date = "2022-03-13"
 description = "每天只睡45分鐘，卻活力充沛得渡的每一天。"
+categories = [
+    "brain"
+]
 tags = [
-    "大腦",
+    "睡眠",
 ]
 +++
 
