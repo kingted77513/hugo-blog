@@ -24,7 +24,7 @@ params:
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src:
 
     article:
         math: false
