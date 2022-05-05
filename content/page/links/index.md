@@ -1,14 +1,14 @@
 ---
 title: Links
 links:
-  - title: GitHub
-    description: 歡迎看看我的 GitHub ，其中包含了一些技術研究
-    website: https://github.com/kingted77513
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: Facebook
-    description: 歡迎加我的 FB ，交個好友互相交流
-    website: https://www.facebook.com/kingted77513
-    image: fb-logo-128.png
+  - title: Facebook 粉絲專頁
+    description: 歡迎加入我們的粉絲專頁，關注我們的最新動態。
+    website: https://www.facebook.com/111871148178207
+    image: facebook_logos_PNG19762.png
+  - title: Line 社群
+    description: 歡迎加入我們的社群，關注我們的最新動態。
+    website: https://line.me/ti/g2/_SSqPvB77neUo3pYJgjzQY2EfM6iD7grgtAfGw?utm_source=invitation&utm_medium=link_copy&utm_campaign=default
+    image: line-icon.png
 menu:
     main: 
         weight: -50
@@ -17,3 +17,5 @@ menu:
 
 comments: false
 ---
+
+我們還有很多社群連結，歡迎與興趣相投的朋友一同討論喔！

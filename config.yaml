@@ -7,11 +7,11 @@ title: Example Site
 languages:
     zh-tw:
         languageName: 繁體中文
-        title: 光頭阿泰
+        title: 泰迪的催眠密室
         weight: 1
     cn:
         languageName: 簡體中文
-        title: 光头阿泰
+        title: 泰迪的催眠密室
         weight: 2
 
 # Change it to your Disqus shortname before using
@@ -195,23 +195,17 @@ menu:
               icon: home
 
     social:
-        - identifier: github
-          name: GitHub
-          url: https://github.com/kingted77513
-          params:
-              icon: brand-github
-
         - identifier: facebook
           name: Facebook
-          url: https://www.facebook.com/kingted77513
+          url: https://www.facebook.com/111871148178207
           params:
               icon: brand-facebook
 
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com/WuTeddy
+        - identifier: line
+          name: Line
+          url: https://line.me/ti/g2/_SSqPvB77neUo3pYJgjzQY2EfM6iD7grgtAfGw?utm_source=invitation&utm_medium=link_copy&utm_campaign=default
           params:
-              icon: brand-twitter
+              icon: icons8-line
 
 related:
     includeNewer: true
