@@ -48,8 +48,8 @@ params:
         lastUpdated: 2006-01-02 15:04 CST
 
     sidebar:
-        emoji: 😎
-        subtitle: 人生簡單，快樂就好
+        emoji:
+        subtitle: 讓每個人都可以成為理想中的自己，這是我唯一的信念！
         avatar:
             enabled: true
             local: true
