@@ -1,6 +1,6 @@
 ---
-title: "大腦"
-description: "關於大腦的文章"
+title: "催眠"
+description: "關於催眠的文章"
 slug: "brain"
 image: "anatomy-1751201.svg"
 style:

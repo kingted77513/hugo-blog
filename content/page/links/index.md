@@ -1,5 +1,5 @@
 ---
-title: Links
+title: 連結
 links:
   - title: Facebook 粉絲專頁
     description: 歡迎加入我們的粉絲專頁，關注我們的最新動態。

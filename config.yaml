@@ -186,7 +186,7 @@ params:
 menu:
     main:
         - identifier: home
-          name: Home
+          name: 首頁
           url: /
           weight: -100
           params:
