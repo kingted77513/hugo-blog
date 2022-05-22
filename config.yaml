@@ -1,8 +1,8 @@
-baseurl: https://example.com
-languageCode: en-us
+baseurl: https://teddy-hypnosis-room.web.app
+languageCode: zh-tw
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: 泰迪的催眠密室
 
 languages:
     zh-tw:
