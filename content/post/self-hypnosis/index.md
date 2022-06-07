@@ -6,7 +6,7 @@ date = "2022-06-05"
 image = "pexels-pixabay-258330.jpg"
 slug = "self-hypnosis"
 categories = ["hypnos"]
-tags = ["催眠理論"]
+tags = ["催眠理論", "自我催眠"]
 series = ["系統"]
 aliases = ["別名"]
 +++
