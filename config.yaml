@@ -156,7 +156,7 @@ params:
     opengraph:
         twitter:
             # Your Twitter username
-            site: WuTeddy
+            site: TeddyHypnoRoom
 
             # Available values: summary, summary_large_image
             card: summary_large_image
@@ -206,6 +206,12 @@ menu:
           url: https://line.me/ti/g2/_SSqPvB77neUo3pYJgjzQY2EfM6iD7grgtAfGw?utm_source=invitation&utm_medium=link_copy&utm_campaign=default
           params:
               icon: icons8-line
+
+        - identifier: twitter
+          name: Twitter
+          url: https://twitter.com/TeddyHypnoRoom
+          params:
+              icon: brand-twitter
 
 related:
     includeNewer: true
